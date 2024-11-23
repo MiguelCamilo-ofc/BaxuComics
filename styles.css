@@ -1,0 +1,12 @@
+body{
+	display: flex;
+	background-color: #fff; 
+	height: 100%;
+	width: 100%;
+}
+
+#main{
+	width: 50%;
+	height: 50%;
+	margin: auto;
+}
