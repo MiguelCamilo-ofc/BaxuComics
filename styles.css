@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26171f9b117abed3ce50d5463944c1f2e05d92404eb43188ccd57e137f15ff75
-size 141
+ body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+
+        #main {
+            background-color: #000;
+            width: 90%; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            height: auto;
+        }
+
+        #faixa1 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem;
+        }
+
+        #comics {
+            background-color: #3F3F3F;
+            padding: 1rem;
+            margin: 2rem 0;
+            border-radius: 15px;
+        }
+
+        #h1num1 {
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 2rem;
+            margin: 0 0 1rem 0;
+        }
+
+        #comicsas {
+            background-color: black;
+            padding: 1rem;
+            color: white;
+        }
+
+        blockquote {
+            color: white;
+            margin: 1rem;
+        }
+
+        cite {
+            display: block;
+            color: darkgray;
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        #enfaseFinal {
+            color: darkgray;
+            font-size: 0.9rem;
+        }
